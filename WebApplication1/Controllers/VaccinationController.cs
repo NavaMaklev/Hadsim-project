@@ -21,7 +21,7 @@ namespace CoronaSystemApp.Controllers
         {
             return _vaccinationService.GetVaccinations();
         }      
-        [HttpPost("InseartVaccination")]
+        [HttpPost("InsertVaccination")]
         public string AddVaccination( Vaccination vaccination)
         {
             return _vaccinationService.AddVaccination(vaccination);

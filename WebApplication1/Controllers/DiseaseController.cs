@@ -19,7 +19,7 @@ namespace CoronaSystemApp.Controllers
         {
          return _diseaseService.GetDiseases();
         }
-        [HttpPost("InseartDisease")]
+        [HttpPost("InsertDisease")]
         public string AddDisease(Disease disease)
         {
             return _diseaseService.AddDisease(disease);

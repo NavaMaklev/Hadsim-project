@@ -35,7 +35,7 @@ namespace CoronaSystemApp.Controllers
         {
             return _clientService.GetClientVaccinationDetails(id);
         }
-        [HttpPost("InseartClient")]
+        [HttpPost("InsertClient")]
         public string AddClient(Client client)
         {
             return _clientService.AddClient(client);
