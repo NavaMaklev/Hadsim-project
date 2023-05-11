@@ -7,3 +7,5 @@ attached in the DataTabels.sql file.
 During the run, Swagger will open and through it the system will be able to be operated: enter data, retrieve and watch
 in the data summaries.
 There is another detail about the system in the attached file Architectural specification.
+<img width="436" alt="image" src="https://github.com/NavaMaklev/Hadsim-project/assets/131261211/cbf71534-45cd-4abb-9490-682f55f06f78">
+
